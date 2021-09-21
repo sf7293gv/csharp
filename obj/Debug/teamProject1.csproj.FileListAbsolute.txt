@@ -1,0 +1,10 @@
+C:\Users\Sonic\source\repos\teamProject1\bin\Debug\teamProject1.exe.config
+C:\Users\Sonic\source\repos\teamProject1\bin\Debug\teamProject1.exe
+C:\Users\Sonic\source\repos\teamProject1\bin\Debug\teamProject1.pdb
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.csproj.AssemblyReference.cache
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.Form1.resources
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.Properties.Resources.resources
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.csproj.GenerateResource.cache
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.exe
+C:\Users\Sonic\source\repos\teamProject1\obj\Debug\teamProject1.pdb
